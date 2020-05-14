@@ -487,11 +487,12 @@
 				DEVELOPMENT_TEAM = YGAZHQXHH4;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Combine/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "dev.peterfriese.SwiftUI-Combine";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.theruleshavechanged.SwiftUI-Combine";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -508,11 +509,12 @@
 				DEVELOPMENT_TEAM = YGAZHQXHH4;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Combine/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "dev.peterfriese.SwiftUI-Combine";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.theruleshavechanged.SwiftUI-Combine";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
